@@ -72,16 +72,18 @@ The visualization steps are already provided in the notebook for easy use.
 
 ## **5\. Confusion Matrix and Classification Report of Pre-Trained Model**
 
+
 Below are the performance results of the pre-trained CRNN model I developed for speech emotion recognition:
 
 ### **Confusion Matrix**
 
 This heatmap shows the normalized confusion matrix, representing how well the model classifies emotions. Each row corresponds to the true labels, and each column corresponds to the predicted labels. The values indicate the proportion of correct and incorrect classifications.
 
-*Add confusion matrix image here*
+![normalized confusion matrix](https://github.com/user-attachments/assets/df951436-5181-4ec9-a288-9343358faddf)
 
 ### **Classification Report**
 
 The classification report provides detailed performance metrics such as **precision**, **recall**, and **F1-score** for each emotion class. This helps in understanding how the model performs on each emotion category.
 
-*Add classification report image here.*
+![classification reprt](https://github.com/user-attachments/assets/20c129bb-806b-4ab4-8568-4f3ac60fd1d5)
+
