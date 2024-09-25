@@ -7,8 +7,9 @@ This project implements a Speech Emotion Recognition (SER) system using a Convol
 1. [Installing Libraries](#1-installing-libraries)
 2. [Preprocessing and Creating the Labeled Dataset](#2-preprocessing-and-creating-the-labeled-dataset)
 3. [Building and Training the Model](#3-building-and-training-the-model)
-4. [Training Your Own Model](#4-training-your-own-model)
-5. [Pre-trained Model Results](#5-pre-trained-model-results)
+4. [Visualizing the Trained Model’s Performance](#4-visualizing-the-trained-models-performance)
+5. [Confusion Matrix and Classification Report of Pre-Trained Model](#5-confusion-matrix-and-classification-report-of-pre-trained-model)
+
 
 
 ## **1\. Installing Libraries**
