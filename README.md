@@ -1,4 +1,4 @@
-# **Speech Emotion Recognition (SER) using CRNN**
+# **Speech Emotion Recognition (SER)**
 
 This project implements a Speech Emotion Recognition (SER) system using a Convolutional Recurrent Neural Network (CRNN). The model is trained on the [EmoDB dataset](https://www.kaggle.com/datasets/piyushagni5/berlin-database-of-emotional-speech-emodb) to classify emotions from speech audio.
 
